@@ -1,0 +1,4 @@
+# config.py
+TOKEN = "8993684187:AAFJfFGATLsAdDmTYb46maUbT8nBhSVLSvE"
+ADMIN_ID = 7016694661
+DATABASE = "support_bot.db"
