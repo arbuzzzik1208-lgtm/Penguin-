@@ -1,4 +1,4 @@
 # config.py
-TOKEN = "8993684187:AAFJfFGATLsAdDmTYb46maUbT8nBhSVLSvE"
-ADMIN_ID = 7016694661
+TOKEN = "ТОКЕН ИЗ ЮОТФАЗЕРА"
+ADMIN_ID = id tvoy
 DATABASE = "support_bot.db"
